@@ -1,0 +1,108 @@
+ID;AGE_YEARS;WEEKS_PREGNANCY;WEEKS_PREG_CAT;HEALTH_PROB_CAT;HEALTH_PROBLEM?;HEALTH_PROBLEM_CAT;DESIRED_PREGNANCY?;DESIRED_PREG_CAT;CURRENTLY_EMPLOYED;EMPLOYED_CAT;DEGREE_OF_INSTRUCTION;INSTRUCTION_CAT;FAMILY_INCOME;INCOME_CAT;MARITAL_STATUS;MARITAL_STATUS_CAT;MENTAL_HEALTH_HISTORY_PROBLEM?;MENTAL_CAT;DEPRESSION
+1;27;25;2;2;no;9;yes;1;yes;1;incomplete high school;2;between 1000 and 1999 reais;2;stable union;2;depression;1;2
+2;17;24;2;1;kidney stone/ hypothyroidism;10;no;2;no;2;high school;2;higher than 4000 reais;5;stable union;2;depression/ anxiety;1;2
+3;25;37;3;2;no;9;yes;1;yes;1;high school;2;-;6;married;2;no;2;2
+4;24;26;2;1;hematological;8;no;2;no;2;high school;2;less than 1000 reais;1;divorced;3;depression;1;1
+5;30;25;2;1;transverse myelitis;13;no;2;no;2;high school;2;less than 1000 reais;1;single;1;anxiety;1;1
+6;35;37;3;2;no;9;yes;1;no;2;postgraduate studies;3;higher than 4000 reais;5;married;2;anxiety;1;2
+7;19;29;3;2;no;9;yes;1;yes;1;incomplete high school;2;between 1000 and 1999 reais;2;single;1;anxiety;1;2
+8;30;12;1;1;hypertension;1;no;2;yes;1;incomplete high school;2;between 2000 and 2999 reais;3;married;2;no;2;1
+9;37;25;2;1;thyroid cancer;2;no;2;yes;1;high school;2;between 1000 and 1999 reais;2;stable union;2;no;2;2
+10;29;15;2;2;no;9;yes;1;yes;1;high school;2;-;6;married;2;no;2;2
+11;22;34;3;2;no;9;no;2;yes;1;high school;2;less than 1000 reais;1;single;1;no;2;1
+12;35;20;2;2;no;9;yes;1;yes;1;higher education complete;3;between 1000 and 1999 reais;2;married;2;no;2;2
+13;27;21;2;2;no;9;no;2;yes;1;high school;2;between 1000 and 1999 reais;2;single;1;no;2;2
+14;25;26;2;2;no;9;yes;1;no;2;incomplete higher education;3;between 1000 and 1999 reais;2;single;1;no;2;2
+15;29;12;1;2;no;9;yes;1;yes;1;higher education complete;3;-;6;married;2;no;2;2
+16;24;30;3;1;intestinal pseudoestruction syndrome;6;yes;1;no;2;higher education complete;3;between 1000 and 1999 reais;2;married;2;no;2;2
+17;25;28;2;2;no;9;no;2;yes;1;higher education complete;3;-;6;single;1;anxiety;1;2
+18;28;11;1;1;"yes; not specified";11;yes;1;no;2;incomplete high school;2;between 1000 and 1999 reais;2;married;2;no;2;1
+19;30;27;2;1;"yes; not specified";11;yes;1;no;2;incomplete higher education;3;-;6;married;2;depression/ anxiety;1;1
+20;31;31;3;2;no;9;yes;1;no;2;incomplete high school;2;between 1000 and 1999 reais;2;married;2;no;2;1
+21;40;13;1;1;"yes; not specified";11;no;2;yes;1;high school;2;less than 1000 reais;1;single;1;no;2;1
+22;37;35;3;1;vascular problems;1;yes;1;no;2;high school;2;between 1000 and 1999 reais;2;married;2;no;2;1
+23;29;22;2;2;no;9;no;2;no;2;high school;2;-;6;married;2;no;2;1
+24;22;33;3;2;no;9;no;2;yes;1;incomplete elementary school;1;between 1000 and 1999 reais;2;single;1;no;2;2
+25;31;30;3;1;hypertension;1;yes;1;yes;1;high school;2;between 1000 and 1999 reais;2;married;2;-;1;2
+26;21;38;3;2;no;9;yes;1;no;2;incomplete high school;2;less than 1000 reais;1;single;1;D.I.;1;2
+27;26;20;2;2;no;9;yes;1;no;2;high school;2;-;6;married;2;anxiety;1;2
+28;36;20;2;1;hypertension;1;yes;1;no;2;postgraduate studies;3;-;6;married;2;anxiety;1;2
+29;26;26;2;1;SAF, chagas disease;10;yes;1;no;2;high school;2;between 2000 and 2999 reais;3;married;2;no;2;2
+30;24;30;3;2;no;9;yes;1;yes;1;high school;2;between 1000 and 1999 reais;2;married;2;no;2;2
+31;28;28;2;1;diabetes;2;-;2;yes;1;incomplete elementary school;1;less than 1000 reais;1;married;2;depression;1;1
+32;32;28;2;2;no;9;yes;1;yes;1;high school;2;between 2000 and 2999 reais;3;married;2;no;2;2
+33;30;17;2;1;diabetes;2;yes;1;yes;1;high school;2;between 1000 and 1999 reais;2;single;1;no;2;2
+34;38;32;3;1;diabetes;2;yes;1;yes;1;high school;2;between 1000 and 1999 reais;2;stable union;2;no;2;2
+35;37;28;2;1;chagas disease;7;no;2;yes;1;higher education complete;3;between 3000 and 3999 reais;4;married;2;anxiety;1;2
+36;36;21;2;2;no;9;yes;1;yes;1;high school;2;between 1000 and 1999 reais;2;divorced;3;depression/ anxiety;1;2
+37;41;18;2;2;no;9;-;2;no;2;incomplete elementary school;1;-;6;married;2;no;2;2
+38;18;14;1;2;no;9;no;2;yes;1;high school;2;between 1000 and 1999 reais;2;single;1;no;2;1
+39;40;13;1;1;various;10;no;2;no;2;complete primary education;1;-;6;married;2;no;2;1
+40;31;35;3;1;Takayasu;3;yes;1;no;2;incomplete high school;2;-;6;married;2;no;2;2
+41;13;23;2;2;no;9;no;2;no;2;incomplete elementary school;1;-;6;single;1;depression/ anxiety;1;1
+42;40;36;3;1;hypertension;1;no;2;no;2;incomplete elementary school;1;-;6;married;2;no;2;2
+43;30;35;3;2;no;9;no;2;yes;1;complete primary education;1;between 1000 and 1999 reais;2;married;2;no;2;2
+44;36;23;2;2;no;9;yes;1;yes;1;fundamental;1;less than 1000 reais;1;divorced;3;no;2;2
+45;40;31;3;1;type II diabetes;2;yes;1;no;2;high school;2;-;6;married;2;no;2;1
+46;29;32;3;2;no;9;no;2;yes;1;high school;2;between 3000 and 3999 reais;4;married;2;no;2;2
+47;41;35;3;2;no;9;no;2;yes;1;higher education complete;3;between 2000 and 2999 reais;3;married;2;no;2;2
+48;39;37;3;1;Gestational diabetes;2;yes;1;yes;1;higher education complete;3;between 1000 and 1999 reais;2;married;2;no;2;2
+49;29;20;2;2;no;9;no;2;no;2;incomplete high school;2;between 1000 and 1999 reais;2;single;1;no;2;2
+50;38;17;2;1;hypertension;1;yes;1;no;2;high school;2;between 3000 and 3999 reais;4;married;2;no;2;2
+51;37;21;2;2;no;9;yes;1;yes;1;higher education complete;3;higher than 4000 reais;5;married;2;anxiety;1;1
+52;22;17;2;1;chronic thrombocytopenia;8;no;2;yes;1;incomplete higher education;3;between 2000 and 2999 reais;3;married;2;no;2;2
+53;37;37;3;1;HAS;1;no;2;no;2;high school;2;between 2000 and 2999 reais;3;married;2;no;2;2
+54;15;37;3;2;no;9;yes;1;no;2;incomplete high school;2;less than 1000 reais;1;single;1;no;2;1
+55;32;37;3;2;no;9;yes;1;yes;1;high school;2;between 1000 and 1999 reais;2;married;2;no;2;1
+56;32;10;1;1;thyroid nodule;2;yes;1;yes;1;postgraduate studies;3;between 2000 and 2999 reais;3;single;1;no;2;2
+57;23;11;1;1;renal cyst;4;no;2;no;2;incomplete higher education;3;between 1000 and 1999 reais;2;single;1;no;2;1
+58;22;17;2;2;no;9;yes;1;yes;1;incomplete high school;2;between 1000 and 1999 reais;2;married;2;no;2;2
+59;32;27;2;2;no;9;yes;1;no;2;high school;2;less than 1000 reais;1;married;2;no;2;2
+60;24;27;2;1;cervical isthmus failure;12;yes;1;no;2;incomplete elementary school;1;between 1000 and 1999 reais;2;married;2;no;2;2
+61;26;37;3;1;rheumatic fever;7;yes;1;no;2;higher education complete;3;between 2000 and 2999 reais;3;married;2;no;2;2
+62;35;36;3;1;DM gestational;2;no;2;yes;1;incomplete elementary school;1;less than 1000 reais;1;married;2;no;2;2
+63;32;34;3;1;HAS;1;yes;1;no;2;higher education complete;3;less than 1000 reais;1;married;2;no;2;2
+64;34;41;3;2;no;9;yes;1;yes;1;higher education complete;3;less than 1000 reais;1;married;2;no;2;2
+65;31;33;3;2;no;9;yes;1;yes;1;high school;2;between 1000 and 1999 reais;2;married;2;no;2;1
+66;23;17;2;1;LES, chronic kidney, melanoma;10;no;2;no;2;incomplete higher education;3;between 1000 and 1999 reais;2;married;2;no;2;2
+67;38;28;2;1;asthma, anxiety attacks, bipolar;10;yes;1;no;2;incomplete higher education;3;between 1000 e 1999 reais;2;married;2;anxiety, TB;1;1
+68;34;18;2;2;no;9;no;2;yes;1;incomplete high school;2;between 2000 and 2999 reais;3;single;1;no;2;1
+69;31;23;2;1;DM ;2;no;2;no;2;high school;2;between 2000 and 2999 reais;3;married;2;no;2;1
+70;24;7;1;2;no;9;yes;1;yes;1;incomplete high school;2;between 1000 and 1999 reais;2;married;2;no;2;2
+71;21;18;2;2;no;9;yes;1;yes;1;incomplete higher education;3;between 2000 and 2999 reais;3;married;2;no;2;2
+72;25;24;2;1;discoid lupus;3;no;2;no;2;high school;2;between 1000 and 1999 reais;2;married;2;no;2;2
+73;32;25;2;2;no;9;yes;1;yes;1;postgraduate studies;3;higher than 4000 reais;5;married;2;no;2;2
+74;29;18;2;2;no;9;yes;1;yes;1;postgraduate studies;3;between 3000 and 3999 reais;4;married;2;no;2;2
+75;28;21;2;2;no;9;no;2;yes;1;postgraduate studies;3;between 2000 and 2999 reais;3;married;2;no;2;2
+76;40;21;2;2;no;9;yes;1;no;2;postgraduate studies;3;higher than 4000 reais;5;married;2;no;2;2
+77;34;3;1;2;no;9;yes;1;yes;1;incomplete high school;2;less than 1000 reais;1;married;2;no;2;1
+78;34;28;2;1;DM gestational, gastritis;2;-;2;no;2;postgraduate studies;3;between 2000 and 2999 reais;3;married;2;no;2;1
+79;15;32;3;2;no;9;no;2;no;2;incomplete elementary school;1;-;6;single;1;no;2;2
+80;32;6;1;1;HAS;1;no;2;yes;1;incomplete elementary school;1;between 1000 and 1999 reais;2;married;2;no;2;1
+81;36;28;2;1;DM gestational;2;no;2;no;2;higher education complete;3;between 1000 and 1999 reais;2;married;2;no;2;1
+82;40;32;3;2;no;9;-;2;yes;1;high school;2;between 2000 and 2999 reais;3;married;2;no;2;2
+83;20;32;3;1;asthma;5;yes;1;no;2;incomplete high school;2;higher than 4000 reais;5;married;2;no;2;2
+84;32;38;3;1;LES;3;yes;1;yes;1;higher education complete;3;higher than 4000 reais;5;married;2;no;2;1
+85;23;18;2;1;cervical isthmus incompetence;12;no;2;yes;1;high school;2;between 1000 and 1999 reais;2;married;2;no;2;1
+86;40;39;3;1;DM;2;no;2;yes;1;complete primary education;1;between 1000 and 1999 reais;2;married;2;no;2;1
+87;35;40;3;1;DM;2;yes;1;yes;1;higher education complete;3;between 3000 and 3999 reais;4;married;2;no;2;1
+88;20;30;3;1;arrhythmia;1;no;2;yes;1;high school;2;between 1000 and 1999 reais;2;-;4;-;3;1
+89;40;25;2;1;high pressure;1;yes;1;yes;1;incomplete elementary school;1;between 1000 and 1999 reais;2;-;4;-;3;1
+90;40;23;2;1;gastric;6;no;2;yes;1;high school;2;less than 1000 reais;1;-;4;-;3;1
+91;27;34;3;1;DM;2;no;2;yes;1;high school;2;between 2000 and 2999 reais;3;-;4;-;3;2
+92;21;13;1;1;-;11;yes;1;yes;1;high school;2;between 1000 and 1999 reais;2;-;4;-;3;2
+93;33;20;2;1;hypertension;1;no;2;no;2;higher education complete;3;between 1000 and 1999 reais;2;-;4;-;3;2
+94;32;29;3;1;hypertension;1;yes;1;yes;1;incomplete high school;2;between 1000 and 1999 reais;2;-;4;-;3;2
+95;31;10;1;1;-;11;yes;1;yes;1;postgraduate studies;3;higher than 4000 reais;5;-;4;-;3;2
+96;40;35;3;1;-;11;no;2;no;2;incomplete elementary school;1;between 1000 and 1999 reais;2;-;4;-;3;1
+97;23;29;3;1;-;11;no;2;no;2;high school;2;between 1000 and 1999 reais;2;-;4;-;3;1
+98;18;28;2;1;IRC;4;no;2;no;2;incomplete high school;2;between 2000 and 2999 reais;3;-;4;-;3;2
+99;29;33;3;1;rheumatic fever;7;-;2;yes;1;incomplete higher education;3;between 1000 and 1999 reais;2;;4;;3;2
+100;28;26;2;1;DM + asthma + IMC >32;10;yes;1;yes;1;high school;2;between 3000 and 3999 reais;4;;4;;3;1
+101;34;37;3;1;Sickle cell anemia;8;yes;1;yes;1;high school;2;between 3000 and 3999 reais;4;;4;;3;2
+102;25;37;3;2;no;9;no;2;no;2;high school;2;between 1000 and 1999 reais;2;;4;;3;2
+103;30;28;2;2;no;9;-;2;no;2;incomplete higher education;3;less than 1000;1;;4;;3;2
+104;30;33;3;2;no;9;yes;1;yes;1;higher education complete;3;higher than 4000;5;;4;;3;2
+105;30;15;1;1;-;11;yes;1;no;2;incomplete higher education;3;between 2000 and 2999 reais;3;;4;;3;2
+106;36;32;3;1;DM, HAS;10;no;2;yes;1;incomplete high school;2;less than 1000;1;;4;;3;1
+107;20;21;2;2;no;9;yes;1;yes;1;incomplete higher education;3;higher than 4000;5;;4;;3;2
