@@ -77,7 +77,7 @@ Accuracy and Error rates are calculated for each model to assess their performan
 - Prediction accuracy of 71.43% is achieved using classification decision tree (Rpart). The tree structure generated uses the following predictors suggesting INCOME_CAT, DESIRED_PREG_CAT, INSTRUCTION_CAT, EMPLOYED_CAT are the most significant predictors. 
 
 ### 8.1 Conclusion
-We observe the following predictors do contribute toward causing depression. This finding strongly suggests that __environmental factors play a signifcant role in causing perinatal depression than health/genetical factors.__
+We observe the following predictors do contribute toward causing depression. This finding strongly suggests that ___'Environmental factors play a signifcant role in causing perinatal depression than health/genetical factors.'___
 - Family income (INCOME_CAT): Higher Family Income less chances of depression; implies financial stability
 - Currently Employed (EMPLOYED_CAT): Employment assures financial independence to certain extent, awareness.
 - Desired pregnancy (DESIRED_PREG_CAT): Contributes toward mental and emotional health both during and after pregnancy.
